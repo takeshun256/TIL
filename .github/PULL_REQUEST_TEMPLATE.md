@@ -1,7 +1,4 @@
 ---
-name: 標準的なPR
-about: mainへ変更を反映するときはこちら
-title: ''
 labels: ['enhancement']
 assignees: 'takeshun256'
 
