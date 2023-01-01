@@ -1,9 +1,3 @@
----
-labels: ['enhancement']
-assignees: 'takeshun256'
-
----
-
 ## 概要
 <!-- 変更の目的 もしくは 関連する Issue 番号 -->
 
