@@ -1,9 +1,9 @@
-git/
-git/memo_GithubActionsを使って定期commitする方法.md
-git/setup_this_til_repository.md
 python/
 python/summary_東大のPython基礎.md
 obsidian/
 obsidian/setup_obsidian_in_this_repository.md
 vscode/
 vscode/memo_formatterの使い方.md
+git/
+git/memo_GithubActionsを使って定期commitする方法.md
+git/setup_this_til_repository.md
