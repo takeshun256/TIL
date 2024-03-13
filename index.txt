@@ -1,7 +1,7 @@
-vscode/
-vscode/memo_formatterの使い方.md
 obsidian/
 obsidian/setup_obsidian_in_this_repository.md
+vscode/
+vscode/memo_formatterの使い方.md
 python/
 python/summary_東大のPython基礎.md
 git/
