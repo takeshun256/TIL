@@ -4,8 +4,8 @@ on:
   # 手動でもWorkflowを利用できるようにしておく
   workflow_dispatch:
   schedule:
-    # JSTで8:45に毎日１回実行
-    - cron: "45 23 * * *"
+    # JSTで8:45に1週間に1回実行
+    - cron: "45 23 * * 0"
 
 jobs:
   output_study_history:
