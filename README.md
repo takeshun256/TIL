@@ -42,9 +42,9 @@ Obsidianの個人メモを時々移動しています。
     │   ├── setup_this_til_repository.md
     │   ├── stashで変更を別のブランチに移す.md
     │   ├── windowでのcrlf問題に対処する.md
-    │   ├── ローカルでgit initして、リモートにpushする.md
     │   ├── マージ関連を勉強する.md
     │   ├── リポジトリにライセンスLICENCEを追加.md
+    │   ├── ローカルでgit initして、リモートにpushする.md
     │   └── 追跡ブランチにチェックアウトする。.md
     ├── go
     │   └── Go言語のコマンドを勉強.md
@@ -77,9 +77,9 @@ Obsidianの個人メモを時々移動しています。
     │   ├── obsidianのプラグインとかを色々追加 .md
     │   ├── setup_obsidian_in_this_repository.md
     │   ├── カスタムCSSを使う.md
+    │   ├── タグを使えるようにする + 入門.md
     │   ├── 埋め込みVideo.md
-    │   ├── 現在のノートをcursorで開くコマンド設定.md
-    │   └── タグを使えるようにする + 入門.md
+    │   └── 現在のノートをcursorで開くコマンド設定.md
     ├── python
     │   ├── Logger
     │   │   └── Logging 基本.md
@@ -171,6 +171,6 @@ Obsidianの個人メモを時々移動しています。
     └── zotero
         └── Zotero導入.md
 
-44 directories, 120 files
+43 directories, 120 files
 
 ```
