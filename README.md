@@ -171,6 +171,6 @@ Obsidianの個人メモを時々移動しています。
     └── zotero
         └── Zotero導入.md
 
-43 directories, 120 files
+44 directories, 120 files
 
 ```
