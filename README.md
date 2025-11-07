@@ -2,7 +2,7 @@
 Today I learned
 
 Obsidianの個人メモを時々移動しています。
-
+勉強メモというより、TIPSとかエラー対処/手順がメイン。
 
 
 ```shell
